@@ -11,7 +11,7 @@ Make sure you have **Docker** and **Docker Compose** installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hovo0/snake-game.git
+git clone https://github.com/hovo0/snake-js-docker.git
 cd snake-game
 ```
 
