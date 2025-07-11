@@ -1,0 +1,28 @@
+# Node modules (in case any are added)
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional dependency directories
+.pnp/
+.pnp.js
+
+# Local environment files
+.env
+
+# MacOS files
+.DS_Store
+
+# Docker artifacts (optional)
+*.pid
+*.log
+
+# VS Code settings (if using VSCode)
+.vscode/
+
+# Build artifacts (if any added later)
+dist/
+build/
